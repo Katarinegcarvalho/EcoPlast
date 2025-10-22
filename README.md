@@ -9,7 +9,7 @@ Observação: O aplicativo ainda não foi desenvolvido — trata-se de uma **pro
 ## 👨‍💻 Desenvolvido por
 - Neyri Maria da Silva Santos
 - Maria Eduarda Lacerda Fortunato de Araujo 
-- Kaylanne Gonçalves de car 
+- Kaylanne Gonçalves de carvalho
 - Johão Victor da Silva Elias 
 - Katarine Gonçalves de Carvalho
 - Elane Gomes
