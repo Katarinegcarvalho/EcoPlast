@@ -23,4 +23,4 @@ Observação: O aplicativo ainda não foi desenvolvido — trata-se de uma **pro
 
 📬 Contato
 - ✉️ Email: *katgoncalvesc@gmail.com*  
-- 💼 LinkedIn: 
+- 💼 LinkedIn: www.linkedin.com/in/katarine-gonçalves-de-carvalho-5894b1390
